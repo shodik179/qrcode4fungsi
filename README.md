@@ -1,0 +1,1 @@
+# qrcode4fungsi
